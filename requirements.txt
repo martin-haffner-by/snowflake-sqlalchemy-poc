@@ -1,0 +1,3 @@
+snowflake-connector-python==2.4.3
+snowflake-sqlalchemy==1.2.5
+kartothek==3.20.0
